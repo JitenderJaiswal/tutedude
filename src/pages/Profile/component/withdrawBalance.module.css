@@ -1,0 +1,139 @@
+.parentContainer {
+  display: flex;
+}
+.dashboard {
+  background: #ffffff;
+  box-shadow: 0px 3px 100px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+  margin-left: 187px;
+  margin-top: 30px;
+}
+.dashboardchild {
+  display: flex;
+}
+.refferalContainer {
+  width: 116px;
+  margin-left: 20px;
+}
+.referralEarning {
+  width: 111px;
+  height: 21px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #800080;
+  text-align: left;
+}
+.rupee2500 {
+  height: 48px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+  color: #000000;
+  text-align: left;
+}
+.totalRefferalContainer {
+  width: 100px;
+  margin-left: 62px;
+}
+.totalReferrals {
+  height: 21px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #800080;
+  text-align: left;
+}
+.seven {
+  width: 18px;
+  height: 48px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+  color: #000000;
+  text-align: left;
+}
+.walletContainer {
+  width: 105px;
+  margin-left: 63px;
+}
+.walletBalance {
+  height: 21px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #800080;
+  text-align: left;
+}
+.rupee500 {
+  width: 90px;
+  height: 48px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 48px;
+  color: #000000;
+  text-align: left;
+}
+.withdrawBalanceButton {
+  padding: 8px 16px;
+  gap: 10px;
+  width: 180px;
+  height: 40px;
+  margin-top: 30px;
+  background: #800080;
+  border-radius: 20px;
+  border: none;
+  outline: none;
+}
+.withdrawBalance {
+  width: 148px;
+  height: 24px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #ffffff;
+  margin-top: 8px;
+  margin-left: 16px;
+}
+.friendsWalletContainer {
+  width: 145px;
+  height: 85px;
+  background: #ffffff;
+  box-shadow: 0px 2px 8px rgba(128, 0, 128, 0.15);
+  border-radius: 20px;
+  margin-left: 697px;
+}
+.friendsWalletBalance {
+  width: 105px;
+  height: 21px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  color: #800080;
+}
+.friendsRupee500 {
+  width: 45px;
+  height: 24px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}

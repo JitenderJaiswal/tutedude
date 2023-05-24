@@ -1,0 +1,45 @@
+.parentContainer {
+  margin-top: 40px;
+  margin-left: 187px;
+}
+.howDoesItWork {
+  width: 224px;
+  height: 36px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  color: #800080;
+  text-align: left;
+}
+.boldText {
+  height: 24px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+  text-align: left;
+}
+.normalText {
+  height: 48px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #4d4d4d;
+  text-align: left;
+}
+.vector {
+  width: 65px;
+  height: 65px;
+  background: rgba(217, 217, 217, 0.25);
+  border-radius: 50%;
+}
+.vectorImage {
+  margin: auto;
+  margin-top: 24px;
+}

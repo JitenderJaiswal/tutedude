@@ -1,0 +1,63 @@
+.navbar {
+  display: flex;
+  width: 1366px;
+  height: 73.03px;
+  background: #ffffff;
+}
+.image1 {
+  width: 609px;
+  height: 63px;
+  text-align: left;
+  margin-left: 74px;
+  margin-top: 6px;
+}
+.parentContainer {
+  display: flex;
+  width: 683px;
+  font-weight: 500;
+  font-family: "Poppins";
+  font-style: normal;
+}
+.myAssignment {
+  width: 140px;
+  margin-left: 70px;
+  height: 22px;
+  font-size: 18px;
+  line-height: 22.23px;
+  text-align: center;
+  color: rgba(128, 0, 128, 0.25);
+  margin-top: 25px;
+}
+.chatWithMentor {
+  width: 156px;
+  margin-left: 28px;
+  color: rgba(128, 0, 128, 0.25);
+  font-size: 18px;
+  line-height: 22.23px;
+  height: 22px;
+  text-align: center;
+  margin-top: 25px;
+}
+.vector1 {
+  margin-top: 27px;
+  width: 20px;
+  height: 20px;
+  margin-left: 30px;
+}
+.profileName {
+  width: 111px;
+  height: 22px;
+  color: #800080;
+  font-size: 17px;
+  line-height: 22px;
+  text-align: center;
+  margin-top: 27px;
+  line-height: 22.23px;
+  margin-left: 6px;
+}
+.vector2 {
+  margin-top: 27px;
+  width: 12px;
+  height: 7.41px;
+  margin-left: 10px;
+}

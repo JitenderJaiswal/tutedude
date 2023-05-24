@@ -1,0 +1,19 @@
+.parentContainer {
+}
+.box {
+  border-radius: 5px;
+  width: 300px;
+  height: 40px;
+  border: 1px solid black;
+}
+.referralCode {
+  font-family: "Poppins";
+  font-style: normal;
+  color: #800080;
+}
+.EDCH54 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  color: #800080;
+}
