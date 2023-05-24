@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/tuteduden/static/css/main.aa21d3ad.css",
+    "main.js": "/tuteduden/static/js/main.0e3e7580.js",
+    "static/media/logo.svg": "/tuteduden/static/media/logo.0ba9ccbea7b2484377392d829e0b5fba.svg",
+    "static/media/discount.svg": "/tuteduden/static/media/discount.dd4c3618d7ad2f69ef5583528242b1e7.svg",
+    "static/media/invitePeople.svg": "/tuteduden/static/media/invitePeople.f72793342f45e9415879779e4c5207d7.svg",
+    "static/media/rupee.svg": "/tuteduden/static/media/rupee.2fefbd5de76f9d7b9f3ea3869f35cc74.svg",
+    "static/media/referralCoupon.svg": "/tuteduden/static/media/referralCoupon.d3d4d2fcccd757b24afaf39032372bb5.svg",
+    "static/media/wallet.svg": "/tuteduden/static/media/wallet.9cd3451014e7193f58db9165d1b0b1e3.svg",
+    "index.html": "/tuteduden/index.html",
+    "static/media/person.svg": "/tuteduden/static/media/person.ecab22f1516b7396bdba47031ca59c65.svg",
+    "static/media/downArrow.svg": "/tuteduden/static/media/downArrow.bb749831cbecf5b08e2e3c03e14e1eef.svg",
+    "main.aa21d3ad.css.map": "/tuteduden/static/css/main.aa21d3ad.css.map",
+    "main.0e3e7580.js.map": "/tuteduden/static/js/main.0e3e7580.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa21d3ad.css",
+    "static/js/main.0e3e7580.js"
+  ]
+}
